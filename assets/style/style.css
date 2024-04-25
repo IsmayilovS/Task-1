@@ -37,7 +37,7 @@ nav h1{
     margin-left: 30px;
 }
 .backgroundimg{
-    background-image:url("/assets/img/background/Travel.png");
+    background-image:url("./assets/img/background/Travel.png");
     background-repeat: no-repeat;
     /* outline: 2px solid black; */
     width: 1150px;
